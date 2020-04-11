@@ -1,8 +1,8 @@
 # Natural Language Processing
  
- # 1. TextBook Analysis <br>
-    This Project contains 4 parts as follows: <br>    
-      a. Sentiment Analysis <br>
-      b. Automatic Summary creation <br>
-      c. Wordcloud<br>
-      d. Self Question Answering System <br>
+ # 1. TextBook Analysis 
+    This Project contains 4 parts as follows:     
+      a. Sentiment Analysis 
+      b. Automatic Summary creation 
+      c. Wordcloud
+      d. Self Question Answering System 
