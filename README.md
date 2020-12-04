@@ -1,8 +1,12 @@
 # Natural Language Processing : TextBook Analysis 
 
-Project divided in 4 parts:  <br>   
-`     a. Sentiment Analysis <br>
-      b. Automatic Summary creation <br> 
-      c. Wordcloud <br>
-      d. Self Question Answering System <br> 
-`
+__Notebook in this Project is divided in 4 parts:__ <br>   
+- Sentiment Analysis 
+- Automatic Summary creation 
+- Wordcloud
+- Closed Domain Question Answering System 
+
+__Closed Domain Question Answering System:__ <br>
+- Ask questions in natural language and it will find granular answers in documents that you've provided.
+- Can do semantic document search & retrieve more relevant documents for your search queries
+
